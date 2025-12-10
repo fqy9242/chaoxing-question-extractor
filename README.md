@@ -26,7 +26,7 @@
 ## 🛠️ 安装方法
 
 1.  安装浏览器扩展 **Tampermonkey** (油猴)。
-2.  点击 [安装脚本](您的脚本链接) 或新建脚本将代码复制进去。
+2.  点击 [安装脚本](https://github.com/fqy9242/chaoxing-question-extractor/blob/main/chaoxing-question-extractor.js) 或新建脚本将代码复制进去。
 3.  打开超星学习通的作业详情页面（URL 通常包含 `/mooc-ans/mooc2/work/view`）。
 
 ## 📖 使用指南
