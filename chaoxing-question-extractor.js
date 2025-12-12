@@ -5,6 +5,8 @@
 // @description  提取超星学习通作业题目，支持“题目(答案)”格式的Word导出，自动将文字答案转换为选项字母(A/B)，自动去除原题括号
 // @author       Assistant
 // @match        *://*.chaoxing.com/mooc-ans/mooc2/work/view*
+// @match        *://*.chaoxing.com/exam-ans*
+// @match        *://mooc1.chaoxing.com/exam-ans*
 // @grant        none
 // @require      https://unpkg.com/docx@7.8.2/build/index.js
 // @require      https://unpkg.com/file-saver@2.0.5/dist/FileSaver.min.js
